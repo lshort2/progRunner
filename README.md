@@ -3,5 +3,5 @@ Bash Script used to Run Executables "n" number of times and store standard outpu
 
 Example usage:
 
-![progRunner gif] (http://i.giphy.com/gtiX1hvDWjXji.gif)
+![progRunner gif](http://i.giphy.com/gtiX1hvDWjXji.gif)
 
